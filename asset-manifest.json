@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/car_tire/static/css/main.98207252.css",
+    "main.js": "/car_tire/static/js/main.dd37eb3f.js",
+    "static/media/banner-02.jpg": "/car_tire/static/media/banner-02.1d3252d35b78ec875fb7.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/car_tire/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/network.png": "/car_tire/static/media/network.7deb539d0303413c1704.png",
+    "static/media/remixicon.eot?t=1590207869815": "/car_tire/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/car_tire/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/location.png": "/car_tire/static/media/location.c2a808618ecbf53c92bc.png",
+    "static/media/remixicon.woff?t=1590207869815": "/car_tire/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/car_tire/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/index.jpg": "/car_tire/static/media/index.bd35ce858b7bf02528a8.jpg",
+    "static/media/slick.svg": "/car_tire/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/car_tire/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/car_tire/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/car_tire/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/car_tire/index.html",
+    "main.98207252.css.map": "/car_tire/static/css/main.98207252.css.map",
+    "main.dd37eb3f.js.map": "/car_tire/static/js/main.dd37eb3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98207252.css",
+    "static/js/main.dd37eb3f.js"
+  ]
+}
