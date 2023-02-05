@@ -1,14 +1,16 @@
 .header {
   width: 100%;
-  height: 100px;
+  height: 80px;
   line-height: 100px;
+  background-color: #dc3545;
+
 }
 
 .logo {
   text-align: center;
 }
 .logo img {
-  width: calc(100% - 60%);
+  width: calc(95% - 70%);
   object-fit: contain;
 
 }
@@ -16,7 +18,7 @@
 .logo h5 {
   font-weight: 600;
   font-size: 1rem;
-  color: #212245;
+  color: white;
   margin-top: -40px;
   margin-bottom: 0;
 }
@@ -24,23 +26,23 @@
 .menu a {
   font-weight: 600;
   font-size: 1rem;
-  color: #212245;
+  color: black;
   transition: 0.3s;
 }
 
 .menu a:hover {
-  color: #df2020;
+  color: white;
 }
 
 .active__menu {
-  color: #df2020 !important;
+  color: white !important;
 }
 
 .cart__icon i,
 .user i,
 .mobile__menu i {
   font-size: 1.3rem;
-  color: #212245;
+  color: black;
   cursor: pointer;
 }
 
@@ -52,7 +54,7 @@
   position: absolute;
   top: 30px;
   right: -10px;
-  background: #df2020;
+  background:black;
   color: #fff;
   width: 15px;
   height: 15px;
@@ -73,7 +75,7 @@
   position: sticky;
   top: 0;
   left: 0;
-  background: #fff;
+  background: #dc3545;
   z-index: 99999;
   box-shadow: 5px 5px 15px -5px #fde4e4;
 }
