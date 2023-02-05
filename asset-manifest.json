@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/car_tire/static/css/main.92196e5e.css",
+    "main.css": "/car_tire/static/css/main.2d66ec4d.css",
     "main.js": "/car_tire/static/js/main.f35012ae.js",
     "static/media/remixicon.svg?t=1590207869815": "/car_tire/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/network.png": "/car_tire/static/media/network.7deb539d0303413c1704.png",
@@ -15,11 +15,11 @@
     "static/media/slick.ttf": "/car_tire/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/car_tire/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/car_tire/index.html",
-    "main.92196e5e.css.map": "/car_tire/static/css/main.92196e5e.css.map",
+    "main.2d66ec4d.css.map": "/car_tire/static/css/main.2d66ec4d.css.map",
     "main.f35012ae.js.map": "/car_tire/static/js/main.f35012ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.92196e5e.css",
+    "static/css/main.2d66ec4d.css",
     "static/js/main.f35012ae.js"
   ]
 }
